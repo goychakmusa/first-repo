@@ -1,4 +1,4 @@
-package first_git_package.first_git_package;
+package first_git_package;
 
 public class MyGitClass2 {
     public static void main(String[] args) {
