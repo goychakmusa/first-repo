@@ -8,7 +8,7 @@ public class MyGitClass {
         HOW WE CAN PUSH A GIT PROJECT TO GITHUB?- FOR THE FIRST TIME
         Notes:
         1- git init >> Create local repository. Create a .git folder. DO THIS ONCE FOR EACH PROJECT
-        NOTE: If git is not installed, then you will se an error.
+        NOTE: If git is not installed, then you will see an error.
         2- git status (OPTIONAL) >> Shows changes. Our guide. Use anytime to see current condition.
         3- git add .  >> add(stage) changes in Git repository for the next commit
         4- git commit -m"any message" >> create a new commit(new version). Moves codes from Staging Area to Local Repository.
